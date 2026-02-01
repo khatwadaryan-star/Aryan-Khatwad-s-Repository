@@ -1,14 +1,14 @@
 body {
-  background-color: black;
+  background-color: lightgrey;
 }
 main {
   padding: 20;
 }
 h1 {
   color: white;
-  font-family: Times;
+  font-family: sans-serif;
 }
 p {
-  color: lightgrey;
-  font-family: Verdana;
+  color: black;
+  font-family: Arial;
 }
