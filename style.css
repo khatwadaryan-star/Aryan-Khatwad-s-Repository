@@ -1,15 +1,15 @@
 body {
-  background-color: lightgrey;
+  background-color: #dabf5b;
 }
 main {
   padding: 20px;
 }
 h1 {
-  color: white;
+  color: #c5b996;
   font-family: sans-serif;
 }
 p {
-  color: black;
+  color: #d2b969;
   font-family: Arial;
 }
 .box {
