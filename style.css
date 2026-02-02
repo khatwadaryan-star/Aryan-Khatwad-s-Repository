@@ -12,3 +12,11 @@ p {
   color: black;
   font-family: Arial;
 }
+div {
+  width: 200px;
+  height: 100px; 
+  background-color: lightblue;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 20px;
+}
