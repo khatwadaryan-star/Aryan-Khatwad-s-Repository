@@ -12,7 +12,7 @@ p {
   color: black;
   font-family: Arial;
 }
-div {
+.box {
   width: 200px;
   height: 100px; 
   background-color: lightblue;
